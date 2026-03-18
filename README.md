@@ -1,4 +1,5 @@
-# Simple-State-Space
+# Ultimate Destroyer Doombot Edgelord Shadow Slayer
+
 
 A state-of-the-art robotic control project featuring a physical robot (Pico W), a dedicated remote controller (ESP32-S3), and a real-time 3D Digital Twin (Ursina Engine).
 
@@ -83,4 +84,5 @@ Commands are sent via UDP Broadcast to port `1234` in ASCII format:
 This project is for research and educational purposes only.
 
 ---
-*Created by [Simple State Space Team]*
+*Created by Zhen Li, Eli Zamora, Winston Le*
+
