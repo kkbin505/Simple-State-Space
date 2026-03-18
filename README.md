@@ -3,7 +3,9 @@
 ![demo](https://github.com/user-attachments/assets/d524371f-88b5-4005-8969-31f5f2920b02)
 
 
-A state-of-the-art robotic control project featuring a physical robot (Pico W), a dedicated remote controller (ESP32-S3), and a real-time 3D Digital Twin (Ursina Engine).
+A state-of-the-art robotic control project featuring a physical robot (Pico2 W), a dedicated remote controller (ESP32-S3), and a real-time 3D Digital Twin (Ursina Engine).
+
+https://www.youtube.com/shorts/h4K6WWKXpyg
 
 ![Project Overview](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Hardware](https://img.shields.io/badge/Hardware-ESP32--S3%20|%20Pico%20W-blue)
